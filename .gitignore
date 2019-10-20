@@ -10,3 +10,14 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+classes/
