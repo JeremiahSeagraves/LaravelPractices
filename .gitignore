@@ -21,3 +21,5 @@ yarn-error.log
 *.ids
 *.orig
 classes/
+
+_ide_helper.php
